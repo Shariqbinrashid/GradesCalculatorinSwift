@@ -90,4 +90,3 @@ func setGrade(grade: String) {
   self.grade=grade
 }
 }
-
